@@ -4,10 +4,7 @@
   "description": "",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js",
-    "devstart": "nodemon cleanbot.js",
-    "devstart2": "nodemon botDeux.js",
-    "reg": "nodemon string_split.js"
+    "start": "node cleanbot.js",
   },
   "author": "",
   "license": "ISC",
