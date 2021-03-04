@@ -4,7 +4,7 @@
   "description": "",
   "main": "bot.js",
   "scripts": {
-    "start": "node cleanbot.js",
+    "start": "node cleanbot.js"
   },
   "author": "",
   "license": "ISC",
